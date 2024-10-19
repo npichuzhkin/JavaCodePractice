@@ -7,3 +7,6 @@ ___
 ![ldttest.gif](https://github.com/npichuzhkin/JavaCodePractice/blob/master/gif/ldttest.gif)
 3. Java Collection - topic 4: [Фильтрация](https://github.com/npichuzhkin/JavaCodePractice/tree/master/src/main/java/com/npichuzhkin/javacodepractice/javacollections/topic4).
 4. Java Collection - topic 12: [Подсчет элементов массива произвольного типа в Map](https://github.com/npichuzhkin/JavaCodePractice/blob/master/src/main/java/com/npichuzhkin/javacodepractice/javacollections/topic12/CountOfElements.java).
+5. Java Stream API - topic 6: [Генерация чисел]().
+6. Java Stream API - topic 9: [Агрегация и объединение результатов]().
+7. Java Stream API - topic 10: [ForkJoinPool: Рекурсивное вычисление факториала]().
