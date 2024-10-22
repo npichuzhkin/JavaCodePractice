@@ -9,6 +9,6 @@ ___
 6. Java Stream API - topic 9: [Агрегация и объединение результатов](https://github.com/npichuzhkin/JavaCodePractice/blob/master/src/main/java/com/npichuzhkin/javacodepractice/javastreamapi/topic9/ResultsAggregator.java).
 7. Java Stream API - topic 10: [ForkJoinPool: Рекурсивное вычисление факториала](https://github.com/npichuzhkin/JavaCodePractice/tree/master/src/main/java/com/npichuzhkin/javacodepractice/javastreamapi/topic10).
 8. Maven - topic 11: [Разработка библиотеки для работы с геометрическими фигурами](https://github.com/npichuzhkin/JavaCodePractice/blob/master/src/main/java/com/npichuzhkin/javacodepractice/maven/topic11/GeometryApp.java). Библиотека в отдельном [репозитории](https://github.com/npichuzhkin/GeometryLibrary).
-9. Java Concurrency - topic 4: [Блокирующая очередь]().
-10. Java Concurrency - topic 11: [Многопоточный банковский счёт]().
-11. Java Concurrency - topic 20: [Синхронизаторы]().
+9. Java Concurrency - topic 5: [Блокирующая очередь](https://github.com/npichuzhkin/JavaCodePractice/tree/master/src/main/java/com/npichuzhkin/javacodepractice/javaconcurrency/topic5).
+10. Java Concurrency - topic 11: [Многопоточный банковский счёт](https://github.com/npichuzhkin/JavaCodePractice/tree/master/src/main/java/com/npichuzhkin/javacodepractice/javaconcurrency/topic11).
+11. Java Concurrency - topic 20: [Синхронизаторы](https://github.com/npichuzhkin/JavaCodePractice/tree/master/src/main/java/com/npichuzhkin/javacodepractice/javaconcurrency/topic20).
