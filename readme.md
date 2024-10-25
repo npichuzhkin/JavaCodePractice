@@ -12,3 +12,4 @@ ___
 9. Java Concurrency - topic 5: [Блокирующая очередь](https://github.com/npichuzhkin/JavaCodePractice/tree/master/src/main/java/com/npichuzhkin/javacodepractice/javaconcurrency/topic5).
 10. Java Concurrency - topic 11: [Многопоточный банковский счёт](https://github.com/npichuzhkin/JavaCodePractice/tree/master/src/main/java/com/npichuzhkin/javacodepractice/javaconcurrency/topic11).
 11. Java Concurrency - topic 20: [Синхронизаторы](https://github.com/npichuzhkin/JavaCodePractice/tree/master/src/main/java/com/npichuzhkin/javacodepractice/javaconcurrency/topic20).
+12. Spring MVC - topic 8: Json View. Для задачи создан отдельный [репозиторий](https://github.com/npichuzhkin/JsonViewTask/tree/master/src/main/java/com/npichuzhkin/JsonViewTask).
